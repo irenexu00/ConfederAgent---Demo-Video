@@ -11,6 +11,6 @@ ConfederAgent is not just a demonstration of AI capability — it is a research 
 ## Demo Video
 The included demo video showcases ConfederAgent in action through a fictional scenario set in a galaxy far, far away (but not so long ago). In this simulation, representatives from various star systems engage in heated parliamentary debate over interstellar trade, defence pacts, and labour regulations. Though the setting is science fiction, the underlying mechanics mirror real-world legislative processes to illustrate how AI agents can model complex political discourse, alliance building, and policy negotiations.
 
-Link to demo [video](https://drive.google.com/file/d/1t77H4hIMBjp3stKw1jvTxC9JLX8_zE_l/view?usp=sharing)
+Link to demo [video](https://drive.google.com/file/d/1ey4kSYK-0Zk9MP6ucu9BOa-KWxa1bJRU/view?usp=sharing)
 
 (There is also a 12 round demo [video](https://drive.google.com/file/d/13S9EDhX-L0V3IYaZfXCNWhZfgY3elb_V/view?usp=sharing) that was too large to upload to GitHub)
